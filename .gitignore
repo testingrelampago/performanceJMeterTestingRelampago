@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore the entire "example_folder" and its contents
+apache-jmeter-5.6.2/
