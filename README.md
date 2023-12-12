@@ -17,3 +17,7 @@ This repository contains:
 * Load Testing for testingrelampago.com.jmx
 
 Example of a fresh and new Load Testing script in JMeter
+
+* Stress Testing for testingrelampago.com.jmx
+
+Example of a Stress Testing using a Constant Throughput Timer
