@@ -1,10 +1,10 @@
-# JMeter Performance Testing Example
+# JMeter Performance Testing Examples
 
 ## Overview
 
 This repository contains:
 
-Thread Group - Testing Relampago Home.jmx with:
+* Thread Group - Testing Relampago Home.jmx with:
 
 1 - Response Assertion example to the Web Page testingrelampago.com
 
@@ -14,3 +14,6 @@ Thread Group - Testing Relampago Home.jmx with:
 
 4 - CSV Data Set Config - CoinDesk Api example to see how you could use a .csv
 
+* Load Testing for testingrelampago.com.jmx
+
+Example of a fresh and new Load Testing script in JMeter
