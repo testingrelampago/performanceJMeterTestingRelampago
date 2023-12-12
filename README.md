@@ -4,20 +4,20 @@
 
 This repository contains:
 
-* Thread Group - Testing Relampago Home.jmx with:
+A - Thread Group - Testing Relampago Home.jmx with:
 
-1 - Response Assertion example to the Web Page testingrelampago.com
+Response Assertion example to the Web Page testingrelampago.com
 
-2 - Response Assertion example to the API api.nationalize.io - GET - Parameters: ?name=michael
+Response Assertion example to the API api.nationalize.io - GET - Parameters: ?name=michael
 
-3 - View Results Tree to see the results of the request and assertions
+View Results Tree to see the results of the request and assertions
 
-4 - CSV Data Set Config - CoinDesk Api example to see how you could use a .csv
+CSV Data Set Config - CoinDesk Api example to see how you could use a .csv
 
-* Load Testing for testingrelampago.com.jmx
+B - Load Testing for testingrelampago.com.jmx
 
 Example of a fresh and new Load Testing script in JMeter
 
-* Stress Testing for testingrelampago.com.jmx
+C - Stress Testing for testingrelampago.com.jmx
 
 Example of a Stress Testing using a Constant Throughput Timer
