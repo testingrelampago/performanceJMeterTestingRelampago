@@ -33,3 +33,7 @@ Example of a Performance Testing (100 seconds duration and 5 seconds of delay)
 F - Concurrency Testing for testingrelampago.com.jmx
 
 Example of 555 users will be gradually ramped up over a period of 10 seconds
+
+G - Throughput Testing for testingrelampago.com.jmx
+
+Example Targeting a throughput of 500 requests per minute (300 seconds)
