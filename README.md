@@ -21,3 +21,7 @@ Example of a fresh and new Load Testing script in JMeter
 C - Stress Testing for testingrelampago.com.jmx
 
 Example of a Stress Testing using a Constant Throughput Timer
+
+D - Spike Testing for testingrelampago.com.jmx
+
+Example of a Spike Testing (extreme increase in load)
