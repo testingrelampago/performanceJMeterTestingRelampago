@@ -25,3 +25,7 @@ Example of a Stress Testing using a Constant Throughput Timer
 D - Spike Testing for testingrelampago.com.jmx
 
 Example of a Spike Testing (extreme increase in load)
+
+E - Performance Testing for testingrelampago.com.jmx
+
+Example of a Performance Testing (100 seconds duration and 5 seconds of delay)
